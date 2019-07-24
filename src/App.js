@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Another pull request for testing :)
+          Another pull request for testing Heroku part 3:)
         </p>
         <a
           className="App-link"
