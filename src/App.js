@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is a new branch :)
+          Another pull request for testing :)
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.google.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Access Google
         </a>
       </header>
     </div>
